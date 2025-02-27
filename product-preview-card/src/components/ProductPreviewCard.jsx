@@ -3,7 +3,6 @@ import mobileImage from "../assets/image-product-mobile.jpg";
 import desktopImage from "../assets/image-product-desktop.jpg";
 import { FaShoppingCart } from "react-icons/fa";
 
-// Styled components
 const Card = styled.main`
   display: flex;
   flex-direction: column;
